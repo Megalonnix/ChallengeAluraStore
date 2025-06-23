@@ -33,12 +33,16 @@ Observa-se nos dois gráficos acima que:
 Observando o próprio gráfico acima, a categoria com menor **média** de vendas seria *Utilidades domésticas*. Conforme o cálculo abaixo:
 
 $$
-\begin{array}{l}
-\text{Utilidades domesticas} = \frac{171 + 181 + 177 + 201}{4} = 182.5 = x\ [6pt]
-\text{Livros} = \frac{173+197+185+187}{4} = 185.5 = y\[6pt]
-\text{Instrumentos Musicais} = \frac{182 + 224 + 177 + 170}{4} = 188.25 = z\ [6pt]
+\text{Utilidades domesticas} = \frac{171 + 181 + 177 + 201}{4} = 182.5 = x
+$$
+$$
+\text{Livros} = \frac{173+197+185+187}{4} = 185.5 = y
+$$
+$$
+\text{Instrumentos Musicais} = \frac{182 + 224 + 177 + 170}{4} = 188.25 = z
+$$
+$$
 \text{Logo: } z > y > x
-\end{array}
 $$
 
 Concluímos então, com base  no gráfico acima, que em ordem de items vendidos temos
