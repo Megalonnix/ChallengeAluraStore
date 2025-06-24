@@ -2,6 +2,19 @@
 
 Repositório diz respeito ao primeiro desafio (Challenge) especializado em Data Science do Programa Oracle Next Education 2025 - G8. No seguinte desafio, é proposto ao estudante avaliar os dados de 4 lojas de um comerciante local, e com base em tais informações, apresentar qual seria a loja mais adequata a ser vendida pelo próprio.
 
+## 🚩 **Objetivos Gerais:**
+
+Com base nos dados disponibilizados pela Alura, foram propostas as
+seguintes análises:
+
+- I. Faturamento total das lojas
+- II. Categorias mais e menos vendidas de produtos
+- III. Média de avaliação dos clientes com relação a cada loja
+- IV. Produtos mais e menos vendidos
+- V. Custo médio do frete por compra realizada
+
+Feitas as análises, foram pedidos gráficos para auxílio das mesmas. 
+
 ## 💾 **Informações sobre Instalação:**
 
 > Caso o projeto seja rodado localmente e não em um arquivo.ipynb, serão necessários os seguintes softwares:
@@ -381,6 +394,7 @@ Quanto aos fretes por compra:
   - II. A Loja 4 é a com *menor taxa de frete*.
 
 ### 📋 Conclusão Final:
+--- 
 
 Tendo sido apresentados os pontos dessa análise, conclui-se nesse relatório que a *Loja 4* é a mais adequada para ser vendida pelo Senhor João. Abaixo apresentam-se as justificativas:
 
