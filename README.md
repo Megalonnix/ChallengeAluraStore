@@ -1,10 +1,43 @@
-# Challenge Alura Store - (Programa Oracle Next Education - ONE):
+# Challenge Alura Store - (Oracle Next Education - ONE):
 
 Repositório diz respeito ao primeiro desafio (Challenge) especializado em Data Science do Programa Oracle Next Education 2025 - G8. No seguinte desafio, é proposto ao estudante avaliar os dados de 4 lojas de um comerciante local, e com base em tais informações, apresentar qual seria a loja mais adequata a ser vendida pelo próprio.
 
-## Análises Geradas (presentes no relatório final):
+## 💾 **Informações sobre Instalação:**
 
-> <p style="color: red;" >NOTA IMPORTANTE:</p> repatório também disponível no arquivo notebook, "AluraSotreBr.ipynb".
+> Caso o projeto seja rodado localmente e não em um arquivo.ipynb, serão necessários os seguintes softwares:
+
+-  Python 3.8+
+- Ambiente Python como *Jupyter Notebook* ou IDEs como *Visual Studio Code*.
+-  Biblioteca *matplotlib*
+-  Biblioteca *numpy*
+- Módulo *collections*
+
+> Caso a intensão for rodar o arquivo via **Google Colab**, basta fazer upload do arquivo **AluraStoreBr.ipynb** no Google Drive e então executá-lo.
+
+## 🗂️ **Arquivos presentes no repositório:**
+
+Único arquivo necessário para rodar projeto em nuvem ou localmente é o arquivo **AluraStoreBr.ipynb**, pois o próprio puxa dados de um outro repositório da própria Alura.
+
+A estrutura abaixo mostra todos os arquivos contidos no diretório, **arquivos.csv praticamente não foram usados**.
+
+- 📂 base-de-dados-challenge-1
+    - loja_1.csv
+    - loja_2.csv
+    - loja_3.csv
+    - loja_4.csv
+- 📂 images
+    - 1_faturamento_lojas.png
+    - 2_vendas_por_categoria_A.png
+    - 2_vendas_por_categoria_B.png
+    - 3_media_avaliacao_lojas.png
+    - 4_prods_mais_menos_vendidos.png
+    - 5_media_frete_por_loja.png
+
+- AluraStoreBr.ipynb
+
+## 📋 **Análises Geradas (*presentes no relatório final*):**
+
+> <p>NOTA IMPORTANTE:</p> Relatório também disponível no arquivo AluraSotreBr.ipynb.
 
 ### **0. Introdução:**
 
