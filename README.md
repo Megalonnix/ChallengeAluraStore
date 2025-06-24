@@ -25,7 +25,7 @@ Feitas as análises, foram pedidos gráficos para auxílio das mesmas.
 -  Biblioteca *numpy*
 - Módulo *collections*
 
-> Caso a intensão for rodar o arquivo via **Google Colab**, basta fazer upload do arquivo **AluraStoreBr.ipynb** no Google Drive e então executá-lo.
+> Caso a intensão for rodar o arquivo via **Google Colab**, basta fazer upload do arquivo **AluraStoreBr.ipynb** no Google Drive e então executá-lo (Clicar em *Executar Tudo* via Colab).
 
 ## 🗂️ **Arquivos presentes no repositório:**
 
@@ -393,8 +393,7 @@ Quanto aos fretes por compra:
   - I. A Loja 1 é a que apresenta *maior taxa de frete*.
   - II. A Loja 4 é a com *menor taxa de frete*.
 
-### 📋 Conclusão Final:
---- 
+### 📋 Conclusão Final: 
 
 Tendo sido apresentados os pontos dessa análise, conclui-se nesse relatório que a *Loja 4* é a mais adequada para ser vendida pelo Senhor João. Abaixo apresentam-se as justificativas:
 
